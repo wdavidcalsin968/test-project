@@ -1,8 +1,8 @@
 <script lang="ts">
-import Home from "../page/home.vue";
-import Login from "../page/login.vue";
-import Register from "../page/register.vue";
-import NotFound from "../page/register.vue";
+import Home from "../page/Home.vue";
+import Login from "../page/Login.vue";
+import Register from "../page/Register.vue";
+import NotFound from "../page/NotFound.vue";
 import VueRouter from "vue-router";
 
 const routes = [
